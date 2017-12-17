@@ -15,4 +15,4 @@ Source : https://medantechno.com/read/news/23/tutorial-membuat-bot-messaging-api
 PHP Unirest Script Included
 
 # Tutorial:
-[!Youtube](https://cdn57.androidauthority.net/wp-content/uploads/2017/08/new-youtube-logo-840x402.jpg)](https://youtu.be/yjmA0ouwdUw)
+https://youtu.be/yjmA0ouwdUw
